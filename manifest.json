@@ -1,6 +1,6 @@
 {
-  "name": "منصة اديسون  للتعليم ",
-  "short_name": "اديسون للتعليم ",
+  "name": "منصة اديسون للتعليم",
+  "short_name": "اديسون للتعليم",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,12 +9,13 @@
     {
       "src": "https://cdn.glitch.global/c07dc79d-c056-48b0-8b0b-912783754321/5424770778815132543.jpg?v=1751739020203",
       "sizes": "192x192",
-      "type": "https://cdn.glitch.global/c07dc79d-c056-48b0-8b0b-912783754321/5424770778815132543.jpg?v=1751739020203"
+      "type": "image/jpeg" 
     },
     {
       "src": "https://cdn.glitch.global/c07dc79d-c056-48b0-8b0b-912783754321/5424770778815132543.jpg?v=1751739020203",
       "sizes": "512x512",
-      "type": "https://cdn.glitch.global/c07dc79d-c056-48b0-8b0b-912783754321/5424770778815132543.jpg?v=1751739020203"
+      "type": "image/jpeg" 
     }
   ]
 }
+`http://googleusercontent.com/generated_image_content/0
